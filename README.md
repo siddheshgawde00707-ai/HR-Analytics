@@ -22,17 +22,28 @@
 9) Job Satisfaction Analysis: Created a job satisfaction matrix showing satisfaction ratings across various job roles for better HR decision-making.
 10) Data Visualization:
    Used multiple Power BI visuals including:
+
    a)KPI Cards
+   
    b)Pie Charts
+   
    c)Stacked Column Charts
+   
    d)Bar Charts
+   
    e)Donut Charts
+   
    f)Matrix/Table Visuals
+   
    g)Slicers
-11) Business Insights:
+12) Business Insights:
     The dashboard helps HR professionals:
+    
     a)Monitor employee attrition trends.
+    
     b)Identify departments with high employee turnover. 
+    
     c)Analyze workforce demographics.
+    
     d)Evaluate employee satisfaction.
     e)Support data-driven HR decisions.
