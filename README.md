@@ -6,9 +6,11 @@
 3) Data Modeling: Built relationships between tables (where applicable) and organized the dataset to support efficient reporting and analysis.
 4) DAX Calculations:
   Created DAX measures and calculated columns to calculate:
+
    a)Total Employees
    
    b)Active Employees
+   
    c)Employee Attrition
    
    d)Attrition Rate
