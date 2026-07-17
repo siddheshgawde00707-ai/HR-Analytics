@@ -7,15 +7,19 @@
 4) DAX Calculations:
   Created DAX measures and calculated columns to calculate:
    a)Total Employees
+   
    b)Active Employees
+   
    c)Employee Attrition
+   
    d)Attrition Rate
+   
    e)Average Employee Age
-5) Interactive Dashboard: Designed a user-friendly dashboard with slicers for filtering data by education level and other categories for dynamic analysis.
-6) Employee Attrition Analysis: Visualized employee attrition across different departments, education fields, age groups, and gender to identify turnover patterns.
-7) Demographic Insights: Analyzed employee distribution by age groups, gender, and educational qualifications to understand workforce composition.
-8) Job Satisfaction Analysis: Created a job satisfaction matrix showing satisfaction ratings across various job roles for better HR decision-making.
-9) Data Visualization:
+6) Interactive Dashboard: Designed a user-friendly dashboard with slicers for filtering data by education level and other categories for dynamic analysis.
+7) Employee Attrition Analysis: Visualized employee attrition across different departments, education fields, age groups, and gender to identify turnover patterns.
+8) Demographic Insights: Analyzed employee distribution by age groups, gender, and educational qualifications to understand workforce composition.
+9) Job Satisfaction Analysis: Created a job satisfaction matrix showing satisfaction ratings across various job roles for better HR decision-making.
+10) Data Visualization:
    Used multiple Power BI visuals including:
    a)KPI Cards
    b)Pie Charts
@@ -24,7 +28,7 @@
    e)Donut Charts
    f)Matrix/Table Visuals
    g)Slicers
-10) Business Insights:
+11) Business Insights:
     The dashboard helps HR professionals:
     a)Monitor employee attrition trends.
     b)Identify departments with high employee turnover. 
