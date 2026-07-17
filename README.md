@@ -9,7 +9,6 @@
    a)Total Employees
    
    b)Active Employees
-   
    c)Employee Attrition
    
    d)Attrition Rate
