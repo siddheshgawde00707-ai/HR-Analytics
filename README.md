@@ -1,3 +1,6 @@
+<img width="1398" height="776" alt="HR_Analytics_Dashboard" src="https://github.com/user-attachments/assets/5668fe4f-4fdf-40ff-a155-81417b58887c" />
+
+
 1) Data Collection: Imported HR employee data from a CSV file into Power BI for analysis.
 2) Data Cleaning & Transformation: Used Power Query Editor to clean the dataset by handling missing values, correcting data types, renaming columns, and preparing the data for analysis.
 3) Data Modeling: Built relationships between tables (where applicable) and organized the dataset to support efficient reporting and analysis.
